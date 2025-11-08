@@ -362,7 +362,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Piyush Raj Yadav**
+**Piyush Yadav**
 
 [![GitHub](https://img.shields.io/badge/GitHub-piyushrajyadav-181717?style=flat-square&logo=github)](https://github.com/piyushrajyadav)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin)](https://linkedin.com/in/piyushrajyadav)
