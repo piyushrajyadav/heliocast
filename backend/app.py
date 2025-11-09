@@ -316,4 +316,8 @@ if __name__ == '__main__':
     # Host: 127.0.0.1 (localhost)
     # Port: 5000
     # Debug: True for development (disable in production)
-    app.run(host='127.0.0.1', port=5000, debug=True)
+    #app.run(host='127.0.0.1', port=5000, debug=True)
+    # ✅ For Render deployment — use dynamic port
+    import os
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host='0.0.0.0', port=port, debug=False)
