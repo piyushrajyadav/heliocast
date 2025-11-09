@@ -13,6 +13,7 @@ export default defineConfig({
     alias: {
       "@": path.resolve(__dirname, "src"), // ✅ clean, consistent path
     },
+    extensions: ['.js', '.ts', '.jsx', '.tsx', '.json'],
   },
   server: {
     port: 5173,
